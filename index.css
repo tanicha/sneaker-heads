@@ -22,15 +22,64 @@ Images:
 - "https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg"
     - (You may use any image you would like for the background!)
 */
-#row1{
-  
-  text-align : left;
-  
-}
-#row2{
-  
-    text-align : right;
 
+/* olu code: */
+
+#row1{
+  text-align : left;
+}
+
+#row2{
+    text-align : right;
+}
+
+#jordans-2 {
+    box-shadow: 5px 0px red;
+    display: block;
+    margin-left: auto;
+    margin-right: 28rem;
+    margin-top: 20px;
+    width: 27%;
+    height: 25%;
+}
+
+#row2-section2 {
+    text-align: center;
+    margin-top: 0.5rem;
+    margin-left: 51rem;
+    width: 25rem;
+    height: 25%;
+    border-radius: 0.5rem;
+}
+
+#jordans-2-desc{
+    box-shadow: 5px 5px 5px green;
+    border-style: round;
+    color: white;
+    font: "Copperplate";
+    text-align : center;
+    background-color:red;
+    border-radius: 0.5rem;
+    word-wrap: wrap;
+    margin: 10px;
+    width: 25rem;
+    padding: 10px;
+    height: 6rem;
+}
+/* tani code: */
+
+* {
+    font-family: Copperplate;
+}
+
+body{ 
+    background-image: url("https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg");
+    background-repeat: no-repeat;
+    /* Full height */
+    height: 100%; 
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-size: cover;
 }
 
 h1 {
@@ -40,7 +89,7 @@ h1 {
     padding: 15px;
     background-image: linear-gradient(skyblue, red);
     border-radius: 0.5rem;
-    width: 40rem;
+    width: 52rem;
     text-align: center;
     margin: auto;
 }
@@ -48,21 +97,19 @@ h1 {
 #jordans-1 {
     box-shadow: 5px 5px 5px blue;
     display: block;
-    margin-left: 20rem;
+    margin-left: 28rem;
     margin-right: auto;
     margin-top: 20px;
-    width: 25%;
+    width: 27%;
     height: 25%;
 }
-#jordans-2-desc{
-    box-shadow: 5px 5px 5px green;
-    border-style: round;
-    color: white;
-    font-size: 1.5em; 
-    font: "Copperplate";
-    text-align : left;
-    background-color:red;
 
+#jordans-1-desc {   
+    color: white;
+    background-color: lightskyblue;
+    word-wrap: wrap;
+    text-align: center;
+    margin: 20px;   
 }
 
 #row1-section2 {
@@ -70,6 +117,7 @@ h1 {
     background-color: lightskyblue;
     border-radius: 0.5rem;
     margin-top: 0.5rem;
-    margin-left: 21em;
-    width: 25rem;
+    margin-left: 29.5em;
+    width: 26rem;
+    text-align: center;
 }
