@@ -32,11 +32,27 @@ Images:
     text-align : right;
 
 }
-#jordans-2{
-  
-  box-shadow: 5px 5px 5px red;
-  size: 1.5em;
-  
+
+h1 {
+    color: purple;
+    text-decoration: underline;
+    font-size: 2.5rem;
+    padding: 15px;
+    background-image: linear-gradient(skyblue, red);
+    border-radius: 0.5rem;
+    width: 40rem;
+    text-align: center;
+    margin: auto;
+}
+
+#jordans-1 {
+    box-shadow: 5px 5px 5px blue;
+    display: block;
+    margin-left: 20rem;
+    margin-right: auto;
+    margin-top: 20px;
+    width: 25%;
+    height: 25%;
 }
 #jordans-2-desc{
     box-shadow: 5px 5px 5px green;
@@ -48,14 +64,12 @@ Images:
     background-color:red;
 
 }
-#row2-section2{
-  border-style: round;
-  border-color: green;
-}
-#jordans-1-desc{
-    font-size: 1.5em; 
-    font: "Copperplate";
-    text-align : left;
-    
 
+#row1-section2 {
+    border: 2px solid orangered;
+    background-color: lightskyblue;
+    border-radius: 0.5rem;
+    margin-top: 0.5rem;
+    margin-left: 21em;
+    width: 25rem;
 }
