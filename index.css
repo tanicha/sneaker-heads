@@ -9,7 +9,6 @@ Colors:
 - rgb(219, 255, 57)
 - rgb(116, 201, 241)
 - rgb(251, 64, 64)
-
 Sizes: 
 - 100%
 - 70%
@@ -17,11 +16,44 @@ Sizes:
 - 1.5em
 - 3rem
 - .5em
-
 Font: 
 - Copperplate (You can also use any font that you'd like!)
-
 Images: 
 - "https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg"
     - (You may use any image you would like for the background!)
 */
+#row1{
+  
+  text-align : left;
+  
+}
+#row2{
+  
+    text-align : right;
+
+}
+#jordans-2{
+  
+  box-shadow: 5px 5px 5px red;
+  size: 1.5em;
+  
+}
+#jordans-2-desc{
+    box-shadow: 5px 5px 5px green;
+    border-style: round;
+    color: white;
+    font-size: 1.5em; 
+    font: "Copperplate";
+    text-align : left;
+    background-color:red;
+
+}
+#row2-section2{
+  border-style: round;
+  border-color: green;
+}
+#jordans-1-desc{
+    font-size: 1.5em; 
+    font: "Copperplate";
+    text-align : left;
+}
