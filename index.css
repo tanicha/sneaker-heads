@@ -47,7 +47,7 @@ h1 {
     padding: 15px;
     background-image: linear-gradient(skyblue, red);
     border-radius: 0.5rem;
-    width: 40rem;
+    width: 50rem;
     text-align: center;
     margin: auto;
 }
@@ -55,7 +55,7 @@ h1 {
 #jordans-1 {
     box-shadow: 5px 5px 5px blue;
     display: block;
-    margin-left: 20rem;
+    margin-left: 27rem;
     margin-right: auto;
     margin-top: 20px;
     width: 25%;
@@ -76,7 +76,7 @@ h1 {
     background-color: lightskyblue;
     border-radius: 0.5rem;
     margin-top: 0.5rem;
-    margin-left: 21em;
+    margin-left: 27.5em;
     width: 25rem;
 }
 
